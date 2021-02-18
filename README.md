@@ -50,7 +50,7 @@
 7) <a href="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI">  Sorting Food Categories User Interface  </a>
 </p>
 <p>
-8) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">  Shipping Company Application Clone   </a>
+8) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">  Shipping Company Application Clone  Demo  </a>
 </p>
 
 
