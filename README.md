@@ -143,6 +143,28 @@
 
 <table>
 <tbody>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/VUE3__DemoApp">VUE3 Demo </a> 
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/Vue__Manager"> Item CRUD (+ Firebase) </a> 
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/VUE__MVC">Item MVC</a> 
+</td>
+</tr>
+</tbody>
+</table>
+
+<br />
+<br />
+<br />
+<br />
+
+
+<table>
+<tbody>
   
 <tr>
 <td align="center" width="20%">
