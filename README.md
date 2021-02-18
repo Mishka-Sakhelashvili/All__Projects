@@ -236,7 +236,7 @@
 <tbody>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a>  <a href="https://mishka-sakhelashvili.github.io/JS__Quiz/">  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> </a> 
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a>  <a href="https://mishka-sakhelashvili.github.io/JS__Quiz/">  <img src="https://img.shields.io/badge/Link&logoColor=white" /> </a> 
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll">Full Page Scroll</a>
