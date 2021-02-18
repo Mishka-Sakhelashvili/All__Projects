@@ -1,5 +1,6 @@
 <hr />
 <img height="40px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p>
 <p> 1) <a href="https://github.com/Mishka-Sakhelashvili/React__FacebookLogin">Facebook Login Example</a> 
 <p> 2) <a href="https://github.com/Mishka-Sakhelashvili/React__Manchester">Mancheser City Landing Page</a>
 <p> 3) <a href="https://github.com/Mishka-Sakhelashvili/React__Dimash__LandingPage">Singer Event Landing Pag</a>
@@ -8,6 +9,9 @@
 <p> 6) <a href="https://github.com/Mishka-Sakhelashvili/React__AmazingCubeNavigation">Hard CSS Cube Moving Animation</a>
 <p> 7) <a href="https://github.com/Mishka-Sakhelashvili/React__Commerce.js">Shop App (+ Stripe)</a>
 <p> 8) <a href="https://github.com/Mishka-Sakhelashvili/MongoDb__Express__React__Node__CrudOperation">Item CRUD Operation (+ Express JS & MongoDB)</a>
+</p>
+
+<p>
 <p> 9) <a href="https://github.com/Mishka-Sakhelashvili/React__FrontToBack">Burger App (+ Firebase) </a>
 <p> 10) <a href="https://github.com/Mishka-Sakhelashvili/React__VoiceMan">Execute voice commands (+ AlanAi)</a>
 <p> 11) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__Socket.io__ChatApp">Real Time Chat App (+ Express JS & Cocket.io)</a>
@@ -16,6 +20,7 @@
 <p> 14) <a href="https://github.com/Mishka-Sakhelashvili/React__Actor">Famous Actor Display</a>
 <p> 15) <a href="https://github.com/Mishka-Sakhelashvili/React__Covd19">Coronavirus Data Display</a>
 <p> 16) <a href="https://github.com/Mishka-Sakhelashvili/React__Test">React__Test//////////////////////////////</a>
+</p>
 <p> 17) <a href="https://github.com/Mishka-Sakhelashvili/React__Context">React ContextApi Example</a>
 <p> 18) <a href="https://github.com/Mishka-Sakhelashvili/React__PostManagment">Item CRUD Operation</a>
 <p> 19) <a href="https://github.com/Mishka-Sakhelashvili/React__ToDo">To Do MVC</a>
