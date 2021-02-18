@@ -22,7 +22,7 @@
 <p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">HTML Convert PDF File (+ Express JS)</a>
 <p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">React Full Page Scroll</a>
 <p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">Display Cryptocurrency Exchange Rates</a>
-<p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator"> Item MVC </a>
+<p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__MVC"> Item MVC </a>
 
 <br />
 <br />
