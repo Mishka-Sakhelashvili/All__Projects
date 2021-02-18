@@ -28,11 +28,11 @@
 
 <img height="40px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <p>
-  1) <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  Online Store  Demo Version   </a> 
+  1) <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  Online Store  Demo app   </a> 
 </p>
 
 <p>
-2) <a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">  descriptions   </a>
+2) <a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">  Restaurants search app   </a>
 </p>
 <p>
 3) <a href="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp">  descriptions   </a>
@@ -50,7 +50,7 @@
 7) <a href="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI">  descriptions   </a>
 </p>
 <p>
-8) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">  descriptions   </a>
+8) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">  Shipping Company Application Clone   </a>
 </p>
 
 
