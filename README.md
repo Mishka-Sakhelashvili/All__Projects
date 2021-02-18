@@ -1,25 +1,28 @@
 <img height="40px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<p> 1) <a href="https://github.com/Mishka-Sakhelashvili/React__FacebookLogin">  descriptions   </a> 
-<p> 2) <a href="https://github.com/Mishka-Sakhelashvili/React__Manchester">  descriptions   </a>
-<p> 3) <a href="https://github.com/Mishka-Sakhelashvili/React__Dimash__LandingPage">  descriptions   </a>
-<p> 4) <a href="https://github.com/Mishka-Sakhelashvili/REACT__PlacesApp">  descriptions   </a>
-<p> 5) <a href="https://github.com/Mishka-Sakhelashvili/React__Blog">  descriptions   </a>
-<p> 6) <a href="https://github.com/Mishka-Sakhelashvili/React__AmazingCubeNavigation">  descriptions   </a>
-<p> 7) <a href="https://github.com/Mishka-Sakhelashvili/React__Commerce.js">  descriptions   </a>
-<p> 8) <a href="https://github.com/Mishka-Sakhelashvili/MongoDb__Express__React__Node__CrudOperation">  descriptions   </a>
-<p> 9) <a href="https://github.com/Mishka-Sakhelashvili/React__FrontToBack">  descriptions   </a>
-<p> 10) <a href="https://github.com/Mishka-Sakhelashvili/React__VoiceMan">  descriptions   </a>
-<p> 11) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__Socket.io__ChatApp">  descriptions   </a>
-<p> 12) <a href="https://github.com/Mishka-Sakhelashvili/React__Gif">  descriptions   </a>
-<p> 13) <a href="https://github.com/Mishka-Sakhelashvili/React__ChatDemo">  descriptions   </a>
-<p> 14) <a href="https://github.com/Mishka-Sakhelashvili/React__Actor">  descriptions   </a>
-<p> 15) <a href="https://github.com/Mishka-Sakhelashvili/React__Covd19">  descriptions   </a>
-<p> 16) <a href="https://github.com/Mishka-Sakhelashvili/React__Test">  descriptions   </a>
-<p> 17) <a href="https://github.com/Mishka-Sakhelashvili/React__Context">  descriptions   </a>
-<p> 18) <a href="https://github.com/Mishka-Sakhelashvili/React__PostManagment">  descriptions   </a>
-<p> 19) <a href="https://github.com/Mishka-Sakhelashvili/React__ToDo">  descriptions   </a>
-<p> 20) <a href="https://github.com/Mishka-Sakhelashvili/React__GameApp">  Random Number Game </a>
-<p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">  HTML Convert PDF File (+ express JS)  </a>
+<p> 1) <a href="https://github.com/Mishka-Sakhelashvili/React__FacebookLogin">Facebook Login Example</a> 
+<p> 2) <a href="https://github.com/Mishka-Sakhelashvili/React__Manchester">Mancheser City Landing Page</a>
+<p> 3) <a href="https://github.com/Mishka-Sakhelashvili/React__Dimash__LandingPage">Singer Event Landing Pag</a>
+<p> 4) <a href="https://github.com/Mishka-Sakhelashvili/REACT__PlacesApp">Great Places App Clone</a>
+<p> 5) <a href="https://github.com/Mishka-Sakhelashvili/React__Blog">Real Time Blog (+ Cocket.io)</a>
+<p> 6) <a href="https://github.com/Mishka-Sakhelashvili/React__AmazingCubeNavigation">Hard CSS Cube Moving Animation</a>
+<p> 7) <a href="https://github.com/Mishka-Sakhelashvili/React__Commerce.js">Shop App (+ Stripe)</a>
+<p> 8) <a href="https://github.com/Mishka-Sakhelashvili/MongoDb__Express__React__Node__CrudOperation">Item CRUD Operation (+ Express JS & MongoDB)</a>
+<p> 9) <a href="https://github.com/Mishka-Sakhelashvili/React__FrontToBack">Burger App (+ Firebase) </a>
+<p> 10) <a href="https://github.com/Mishka-Sakhelashvili/React__VoiceMan">Execute voice commands (+ AlanAi)</a>
+<p> 11) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__Socket.io__ChatApp">Real Time Chat App (+ Express JS & Cocket.io)</a>
+<p> 12) <a href="https://github.com/Mishka-Sakhelashvili/React__Gif">Gif Making App</a>
+<p> 13) <a href="https://github.com/Mishka-Sakhelashvili/React__ChatDemo">Messenger App Clone</a>
+<p> 14) <a href="https://github.com/Mishka-Sakhelashvili/React__Actor">Famous Actor Display</a>
+<p> 15) <a href="https://github.com/Mishka-Sakhelashvili/React__Covd19">Coronavirus Data Display</a>
+<p> 16) <a href="https://github.com/Mishka-Sakhelashvili/React__Test">React__Test</a>
+<p> 17) <a href="https://github.com/Mishka-Sakhelashvili/React__Context">React ContextApi Example</a>
+<p> 18) <a href="https://github.com/Mishka-Sakhelashvili/React__PostManagment">Item CRUD Operation</a>
+<p> 19) <a href="https://github.com/Mishka-Sakhelashvili/React__ToDo">To Do MVC</a>
+<p> 20) <a href="https://github.com/Mishka-Sakhelashvili/React__GameApp">Random Number Game</a>
+<p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">HTML Convert PDF File (+ Express JS)</a>
+<p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">React Full Page Scroll</a>
+<p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">Display Cryptocurrency Exchange Rates</a>
+<p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator"> Item MVC </a>
 
 <br />
 <br />
