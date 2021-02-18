@@ -89,23 +89,26 @@
 
 
 <img height="40px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<p> 1) <a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">  descriptions   </a> 
-<p> 2) <a href="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll">  descriptions   </a>
-<p> 3) <a href="https://github.com/Mishka-Sakhelashvili/JS__ConstructionCompanyWhite">  descriptions   </a>
-<p> 4) <a href="https://github.com/Mishka-Sakhelashvili/JQuery__AnimatedSlider">  descriptions   </a>
-<p> 5) <a href="https://github.com/Mishka-Sakhelashvili/JS__Function">  descriptions   </a>
-<p> 6) <a href="https://github.com/Mishka-Sakhelashvili/JS__LocalStorage">  descriptions   </a>
-<p> 7) <a href="https://github.com/Mishka-Sakhelashvili/JS__Todo">  descriptions   </a>
-<p> 8) <a href="https://github.com/Mishka-Sakhelashvili/JS__AlanAi">  descriptions   </a>
-<p> 9) <a href="https://github.com/Mishka-Sakhelashvili/JS__Wallet">  descriptions   </a>
-<p> 10) <a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Freedom">  descriptions   </a>
-<p> 11) <a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Hotel">  descriptions   </a>
-<p> 12) <a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Natours">  descriptions   </a>
-<p> 13) <a href="https://github.com/Mishka-Sakhelashvili/JS__FormValidator">  descriptions   </a>
-<p> 14) <a href="https://github.com/Mishka-Sakhelashvili/JS__CountDown">  descriptions   </a>
-<p> 15) <a href="https://github.com/Mishka-Sakhelashvili/JS__Count">  descriptions   </a>
-<p> 16) <a href="https://github.com/Mishka-Sakhelashvili/JS__InfiniteScroll">  descriptions   </a>
-<p> 17) <a href="https://github.com/Mishka-Sakhelashvili/JS__Count">  descriptions   </a>
-<p> 18) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">  descriptions   </a>
+
+
+<p> 1) <a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a> 
+<p> 2) <a href="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll">Full Page Scroll</a>
+<p> 3) <a href="https://github.com/Mishka-Sakhelashvili/JS__ConstructionCompanyWhite">Construction Company UI </a>
+<p> 4) <a href="https://github.com/Mishka-Sakhelashvili/JQuery__AnimatedSlider">Original Slider </a>
+<p> 5) <a href="https://github.com/Mishka-Sakhelashvili/JS__Function">Algorithm</a>
+<p> 6) <a href="https://github.com/Mishka-Sakhelashvili/JS__LocalStorage">LocalStorage Example </a>
+<p> 7) <a href="https://github.com/Mishka-Sakhelashvili/JS__Todo">To Do MVC</a>
+<p> 8) <a href="https://github.com/Mishka-Sakhelashvili/JS__AlanAi">AlanAi Code </a>
+<p> 9) <a href="https://github.com/Mishka-Sakhelashvili/JS__Wallet">  Wallet Demo app   </a>
+<p> 10) <a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Freedom">  Freedom UI  </a>
+<p> 11) <a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Hotel">  Hotel UI  </a>
+<p> 12) <a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Natours">Natours UI </a>
+<p> 13) <a href="https://github.com/Mishka-Sakhelashvili/JS__FormValidator">Form Validation</a>
+<p> 14) <a href="https://github.com/Mishka-Sakhelashvili/JS__CountDown">New Year Count Down</a>
+<p> 15) <a href="https://github.com/Mishka-Sakhelashvili/JS__Count">Count Down</a>
+<p> 16) <a href="https://github.com/Mishka-Sakhelashvili/JS__InfiniteScroll">Infinite Scroll Example</a>
+<p> 17) <a href="https://github.com/Mishka-Sakhelashvili/JS__Count">Body Slider</a>
+<p> 18) <a href="https://github.com/Mishka-Sakhelashvili/JQuery__MarkUpBuild">Construction Company UI  II </a>
+<p> 19) <a href="https://github.com/Mishka-Sakhelashvili/JQuery__MarkUpBuild">Game</a>
 
 
