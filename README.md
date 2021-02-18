@@ -60,7 +60,7 @@
 </tr>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/React__Test">React__Test//////////////////////////////</a> 
+<a href="https://github.com/Mishka-Sakhelashvili/React__Test">React FullStack</a> 
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/React__Context">React ContextApi Example</a>
@@ -94,12 +94,12 @@
 </tbody>
 </table>
 
-<hr />
+
 <br />
 <br />
 <br />
 <br />
- 
+ <hr />
 <p align="center">
 <img height=80px src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
