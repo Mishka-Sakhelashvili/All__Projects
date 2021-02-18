@@ -1,5 +1,5 @@
 <p align="center">
-<img width=300px src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img width=300px height=80px src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 <table>
 <tbody>
