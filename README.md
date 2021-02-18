@@ -73,7 +73,7 @@
 <p> 2) <a href="https://github.com/Mishka-Sakhelashvili/EXPRESS__RESTAPI__PlacesApp">Great Places App Clone (REST API) </a> 
 <p> 3) <a href="https://github.com/Mishka-Sakhelashvili/Node__Mongo__ShopApp"> Online Store  Demo Application (+ MongoDB)</a> 
 <p> 4) <a href="https://github.com/Mishka-Sakhelashvili/Express__Sequelize__CRUD">CRUD (+ MySql) </a> 
-<p> 5) <a href="https://github.com/Mishka-Sakhelashvili/Express__REST">>Item CRUD Operation (+ MongoDB)</a> 
+<p> 5) <a href="https://github.com/Mishka-Sakhelashvili/Express__REST"> Item CRUD Operation (+ MongoDB)</a> 
 <p> 6) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp"> Shipping Company Application Clone  Demo (+ MongoDB) </a> 
 <p> 7) <a href="https://github.com/Mishka-Sakhelashvili/MongoDb__Express__React__Node__CrudOperation">CRUD (+ MongoDB)</a> 
 <p> 8) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__Socket.io__ChatApp">Real Time Chat App (+ Cocket.io)</a> 
