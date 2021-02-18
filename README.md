@@ -73,14 +73,14 @@
 <p> 2) <a href="https://github.com/Mishka-Sakhelashvili/EXPRESS__RESTAPI__PlacesApp">Great Places App Clone (REST API) </a> 
 <p> 3) <a href="https://github.com/Mishka-Sakhelashvili/Node__Mongo__ShopApp"> Online Store  Demo Application (+ MongoDB)</a> 
 <p> 4) <a href="https://github.com/Mishka-Sakhelashvili/Express__Sequelize__CRUD">CRUD (+ MySql) </a> 
-<p> 5) <a href="https://github.com/Mishka-Sakhelashvili/Express__REST">  descriptions   </a> 
-<p> 6) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">  descriptions   </a> 
-<p> 7) <a href="https://github.com/Mishka-Sakhelashvili/MongoDb__Express__React__Node__CrudOperation">  descriptions   </a> 
-<p> 8) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__Socket.io__ChatApp">  descriptions   </a> 
-<p> 9) <a href="https://github.com/Mishka-Sakhelashvili/Express__Pug">  descriptions   </a> 
-<p> 10) <a href="https://github.com/Mishka-Sakhelashvili/Express__Handlebars">  descriptions   </a> 
-<p> 11) <a href="https://github.com/Mishka-Sakhelashvili/Express__Ejs">  descriptions   </a> 
-<p> 12) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">  descriptions   </a> 
+<p> 5) <a href="https://github.com/Mishka-Sakhelashvili/Express__REST">>Item CRUD Operation (+ MongoDB)</a> 
+<p> 6) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp"> Shipping Company Application Clone  Demo (+ MongoDB) </a> 
+<p> 7) <a href="https://github.com/Mishka-Sakhelashvili/MongoDb__Express__React__Node__CrudOperation">CRUD (+ MongoDB)</a> 
+<p> 8) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__Socket.io__ChatApp">Real Time Chat App (+ Cocket.io)</a> 
+<p> 9) <a href="https://github.com/Mishka-Sakhelashvili/Express__Pug">PUG MVC</a> 
+<p> 10) <a href="https://github.com/Mishka-Sakhelashvili/Express__Handlebars">Handlebars MVC</a> 
+<p> 11) <a href="https://github.com/Mishka-Sakhelashvili/Express__Ejs">EJS MVC</a> 
+<p> 12) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">HTML Convert PDF File</a> 
 
 <br />
 <br />
