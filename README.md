@@ -94,7 +94,7 @@
 </tbody>
 </table>
 
-
+<hr />
 <br />
 <br />
 <br />
@@ -140,7 +140,7 @@
 </tbody>
 </table>
 
-
+<hr />
 <br />
 <br />
 <br />
@@ -164,6 +164,7 @@
 </tbody>
 </table>
 
+<hr />
 <br />
 <br />
 <br />
@@ -221,8 +222,7 @@
 </tbody>
 </table>
 
-
-
+<hr />
 <br />
 <br />
 <br />
