@@ -18,8 +18,8 @@
 <p> 17) <a href="https://github.com/Mishka-Sakhelashvili/React__Context">  descriptions   </a>
 <p> 18) <a href="https://github.com/Mishka-Sakhelashvili/React__PostManagment">  descriptions   </a>
 <p> 19) <a href="https://github.com/Mishka-Sakhelashvili/React__ToDo">  descriptions   </a>
-<p> 20) <a href="https://github.com/Mishka-Sakhelashvili/React__GameApp">  descriptions   </a>
-<p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">  descriptions   </a>
+<p> 20) <a href="https://github.com/Mishka-Sakhelashvili/React__GameApp">  Random Number Game </a>
+<p> 21) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">  HTML Convert PDF File (+ express JS)  </a>
 
 <br />
 <br />
