@@ -92,62 +92,72 @@
 </table>
 
 
-
 <br />
 <br />
 <br />
 <br />
  
 
+<table>
+<tbody>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  Online Store  Demo Application</a> 
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">Restaurants Search Application</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp">Food Delivery Application User Interface</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/RN__Camera">Camera & GoogleMap Integration</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI">Hotel Booking User Interface</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/RN__AppHouses">Item MVC</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI">Sorting Food Categories User Interface</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">Shipping Company Application Clone  Demo</a>
+</td>
+<td align="center" width="20%">
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<br />
+<br />
+<br />
+<br />
 
 <table>
 <tbody>
   
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  Online Store  Demo Application</a> 
+<a href="https://github.com/Mishka-Sakhelashvili/VUE3__DemoApp">VUE3 Demo </a> 
 </td>
 
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">Restaurants Search Application</a>
+<a href="https://github.com/Mishka-Sakhelashvili/Vue__Manager"> Item CRUD (+ Firebase) </a> 
 </td>
 
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp">Food Delivery Application User Interface</a>
+<a href="https://github.com/Mishka-Sakhelashvili/VUE__MVC">Item MVC</a> 
 </td>
 </tr>
 
-
-
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__Camera">Camera & GoogleMap Integration</a>
-</td>
-
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI">Hotel Booking User Interface</a>
-</td>
-
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__AppHouses">Item MVC</a>
-</td>
-</tr>
-
-
-
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI">Sorting Food Categories User Interface</a>
-</td>
-
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">Shipping Company Application Clone  Demo</a>
-</td>
-
-<td align="center" width="20%">
-
-</td>
-</tr>
 
 </tbody>
 </table>
