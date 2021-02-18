@@ -28,8 +28,9 @@
 
 <img height="40px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <p>
-1) <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  descriptions   </a> 
+  1) <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  Online Store  Demo Version   </a> 
 </p>
+
 <p>
 2) <a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">  descriptions   </a>
 </p>
