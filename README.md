@@ -236,7 +236,7 @@
 <tbody>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a>  <a href="https://mishka-sakhelashvili.github.io/JS__Quiz/"> (View Link) </a> 
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a> ( <a href="https://mishka-sakhelashvili.github.io/JS__Quiz/"> Link </a> )
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll">Full Page Scroll</a>
