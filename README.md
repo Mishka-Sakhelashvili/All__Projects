@@ -165,7 +165,6 @@
 
 <table>
 <tbody>
-  
 <tr>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/EXPRESS__AuthRestApi">Signin & Signup (REST API)</a> 
@@ -177,7 +176,6 @@
 <a href="https://github.com/Mishka-Sakhelashvili/Node__Mongo__ShopApp"> Online Store  Demo Application (+ MongoDB)</a>
 </td>
 </tr>
-
 <tr>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/Express__Sequelize__CRUD">CRUD (+ MySql) </a> 
@@ -189,7 +187,6 @@
 <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp"> Shipping Company Application Clone  Demo (+ MongoDB) (REST API) </a> 
 </td>
 </tr>
-
 <tr>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/MongoDb__Express__React__Node__CrudOperation">CRUD (+ MongoDB) (REST API)</a> 
@@ -201,7 +198,6 @@
 <a href="https://github.com/Mishka-Sakhelashvili/Express__Pug">PUG MVC</a>  
 </td>
 </tr>
-
 <tr>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/Express__Handlebars">Handlebars MVC</a>
@@ -213,6 +209,93 @@
 <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">HTML Convert PDF File (REST API) </a> 
 </td>
 </tr>
+</tbody>
+</table>
 
+
+
+<br />
+<br />
+<br />
+<br />
+
+
+<table>
+<tbody>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll">Full Page Scroll</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__ConstructionCompanyWhite">Construction Company UI </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JQuery__AnimatedSlider">Original Slider </a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Function">Algorithm</a> 
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__LocalStorage">LocalStorage Example </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Todo">To Do MVC</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__AlanAi">AlanAi Code </a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Wallet">  Wallet Demo app   </a>  
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Freedom">  Freedom UI  </a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Hotel">  Hotel UI  </a> 
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Natours">Natours UI </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__FormValidator">Form Validation</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__CountDown">New Year Count Down</a> 
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Count">Count Down</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__InfiniteScroll">Infinite Scroll Example</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Slider"> Body Slider </a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JQuery__MarkUpBuild">Construction Company UI  II </a>
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Game">Game</a>
+</td>
+<td align="center" width="20%">
+</td>
+<td align="center" width="20%">
+</td>
+</tr>
 </tbody>
 </table>
