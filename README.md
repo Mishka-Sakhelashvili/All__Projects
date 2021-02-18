@@ -239,70 +239,70 @@
 <a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a> ( <a href="https://mishka-sakhelashvili.github.io/JS__Quiz/"> Link </a> )
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll">Full Page Scroll</a>
+<a href="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll">Full Page Scroll</a> ( <a href="https://mishka-sakhelashvili.github.io/JQuery__FullPageScroll/"> Link </a> )
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__ConstructionCompanyWhite">Construction Company UI </a>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JQuery__AnimatedSlider">Original Slider </a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__Function">Algorithm</a> 
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__LocalStorage">LocalStorage Example </a>
+<a href="https://github.com/Mishka-Sakhelashvili/JS__ConstructionCompanyWhite">Construction Company UI </a> ( <a href="https://mishka-sakhelashvili.github.io/JS__ConstructionCompanyWhite/"> Link </a> )
 </td>
 </tr>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__Todo">To Do MVC</a>
+<a href="https://github.com/Mishka-Sakhelashvili/JQuery__AnimatedSlider">Original Slider </a> ( <a href="https://mishka-sakhelashvili.github.io/JQuery__AnimatedSlider/"> Link </a> )
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Function">Algorithm</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__LocalStorage">LocalStorage Example </a> ( <a href="https://mishka-sakhelashvili.github.io/JS__LocalStorage/"> Link </a> )
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Todo">To Do MVC</a> ( <a href="https://mishka-sakhelashvili.github.io/JS__Todo/"> Link </a> )
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/JS__AlanAi">AlanAi Code </a>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__Wallet">  Wallet Demo app   </a>  
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Wallet">  Wallet Demo app   </a>  ( <a href="https://mishka-sakhelashvili.github.io/JS__Wallet/"> Link </a> )
 </td>
 </tr>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Freedom">  Freedom UI  </a>
+<a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Freedom">  Freedom UI  </a> ( <a href="https://mishka-sakhelashvili.github.io/MarkUp__Freedom/"> Link </a> )
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Hotel">  Hotel UI  </a> 
+<a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Hotel">  Hotel UI  </a> ( <a href="https://mishka-sakhelashvili.github.io/MarkUp__Hotel/"> Link </a> ) 
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Natours">Natours UI </a>
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__FormValidator">Form Validation</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__CountDown">New Year Count Down</a> 
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__Count">Count Down</a>
+<a href="https://github.com/Mishka-Sakhelashvili/MarkUp__Natours">Natours UI </a> ( <a href="https://mishka-sakhelashvili.github.io/MarkUp__Natours/"> Link </a> )
 </td>
 </tr>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__InfiniteScroll">Infinite Scroll Example</a>
+<a href="https://github.com/Mishka-Sakhelashvili/JS__FormValidator">Form Validation</a> ( <a href="https://mishka-sakhelashvili.github.io/JS__FormValidator/"> Link </a> )
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__Slider"> Body Slider </a>
+<a href="https://github.com/Mishka-Sakhelashvili/JS__CountDown">New Year Count Down</a> ( <a href="https://mishka-sakhelashvili.github.io/JS__CountDown/"> Link </a> )
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JQuery__MarkUpBuild">Construction Company UI  II </a>
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Count">Count Down</a> ( <a href="https://mishka-sakhelashvili.github.io/JS__Count/"> Link </a> )
 </td>
 </tr>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__Game">Game</a>
+<a href="https://github.com/Mishka-Sakhelashvili/JS__InfiniteScroll">Infinite Scroll Example</a> ( <a href="https://mishka-sakhelashvili.github.io/JS__InfiniteScroll/"> Link </a> )
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Slider"> Body Slider </a> ( <a href="https://mishka-sakhelashvili.github.io/JS__Slider/"> Link </a> )
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JQuery__MarkUpBuild">Construction Company UI  II </a> ( <a href="https://mishka-sakhelashvili.github.io/JQuery__MarkUpBuild/"> Link </a> )
+</td>
+</tr>
+<tr>
+<td align="center" width="20%">
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Game">Game</a> ( <a href="https://mishka-sakhelashvili.github.io/JS__Game/"> Link </a> )
 </td>
 <td align="center" width="20%">
 </td>
