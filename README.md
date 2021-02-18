@@ -40,10 +40,6 @@
 3) <a href="https://github.com/Mishka-Sakhelashvili/VUE__MVC">  descriptions   </a> 
 
 
-<img height="40px" src="https://img.shields.io/badge/MarkUp-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-1) <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  descriptions   </a> 
-
-
 <img height="40px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 1) <a href="https://github.com/Mishka-Sakhelashvili/Express__Ejs">  descriptions   </a> 
 2) <a href="https://github.com/Mishka-Sakhelashvili/Express__Handlebars">  descriptions   </a> 
