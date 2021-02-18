@@ -88,7 +88,7 @@
 <hr />
 
 
-<img height="40px" src="https://img.shields.io/badge/JavaScript-MarkUp-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img height="40px" src="https://img.shields.io/badge/JavaScript-F7DF1E-MarkUp-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 
 <p> 1) <a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a> 
