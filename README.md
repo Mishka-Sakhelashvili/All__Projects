@@ -107,8 +107,8 @@
 <p> 14) <a href="https://github.com/Mishka-Sakhelashvili/JS__CountDown">New Year Count Down</a>
 <p> 15) <a href="https://github.com/Mishka-Sakhelashvili/JS__Count">Count Down</a>
 <p> 16) <a href="https://github.com/Mishka-Sakhelashvili/JS__InfiniteScroll">Infinite Scroll Example</a>
-<p> 17) <a href="https://github.com/Mishka-Sakhelashvili/JS__Count">Body Slider</a>
+<p> 17) <a href="https://github.com/Mishka-Sakhelashvili/JS__Slider"> Body Slider </a>
 <p> 18) <a href="https://github.com/Mishka-Sakhelashvili/JQuery__MarkUpBuild">Construction Company UI  II </a>
-<p> 19) <a href="https://github.com/Mishka-Sakhelashvili/JQuery__MarkUpBuild">Game</a>
+<p> 19) <a href="https://github.com/Mishka-Sakhelashvili/JS__Game">Game</a>
 
 
