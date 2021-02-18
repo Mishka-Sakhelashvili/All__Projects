@@ -26,32 +26,17 @@
 <br />
 <hr />
 
-<img height="40px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<p>
-  1) <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  Online Store  Demo Application   </a> 
-</p>
 
-<p>
-2) <a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">  Restaurants Search Application   </a>
-</p>
-<p>
-3) <a href="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp">  Food Delivery Application User Interface   </a>
-</p>
-<p>
-4) <a href="https://github.com/Mishka-Sakhelashvili/RN__Camera">  Camera & GoogleMap Integration   </a>
-</p>
-<p>
-5) <a href="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI">  Hotel Booking User Interface   </a>
-</p>
-<p>
-6) <a href="https://github.com/Mishka-Sakhelashvili/RN__AppHouses">  Item MVC </a>
-</p>
-<p>
-7) <a href="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI">  Sorting Food Categories User Interface  </a>
-</p>
-<p>
-8) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">  Shipping Company Application Clone  Demo  </a>
-</p>
+
+<img height="40px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<p> 1) <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  Online Store  Demo Application</a> </p>
+<p> 2) <a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">Restaurants Search Application</a></p>
+<p> 3) <a href="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp">Food Delivery Application User Interface</a></p>
+<p> 4) <a href="https://github.com/Mishka-Sakhelashvili/RN__Camera">Camera & GoogleMap Integration</a></p>
+<p> 5) <a href="https://github.com/Mishka-Sakhelashvili/RN__Booking__UI">Hotel Booking User Interface</a></p>
+<p> 6) <a href="https://github.com/Mishka-Sakhelashvili/RN__AppHouses">Item MVC</a></p>
+<p> 7) <a href="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI">Sorting Food Categories User Interface</a></p>
+<p> 8) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">Shipping Company Application Clone  Demo</a></p>
 
 
 
