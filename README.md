@@ -40,7 +40,7 @@
 3) <a href="https://github.com/Mishka-Sakhelashvili/VUE__MVC">  descriptions   </a> 
 
 
-<img height="40px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img height="40px" src="https://img.shields.io/badge/MarkUp-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 1) <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  descriptions   </a> 
 
 
