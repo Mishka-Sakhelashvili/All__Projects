@@ -236,7 +236,7 @@
 <tbody>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a>  <a href="https://mishka-sakhelashvili.github.io/JS__Quiz/">  <img src="https://img.shields.io/badge/Link-%3E-blue" /> </a> 
+<a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a>  <a href="https://mishka-sakhelashvili.github.io/JS__Quiz/">  <img src="https://img.shields.io/badge/Link-%blue-blue" /> </a> 
 </td>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll">Full Page Scroll</a>
