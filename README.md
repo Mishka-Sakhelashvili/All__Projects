@@ -1,4 +1,4 @@
-
+<hr />
 <img height="40px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <p> 1) <a href="https://github.com/Mishka-Sakhelashvili/React__FacebookLogin">Facebook Login Example</a> 
 <p> 2) <a href="https://github.com/Mishka-Sakhelashvili/React__Manchester">Mancheser City Landing Page</a>
@@ -24,9 +24,9 @@
 <p> 22) <a href="https://github.com/Mishka-Sakhelashvili/React__AnimationSlider">React Full Page Scroll</a>
 <p> 23) <a href="https://github.com/Mishka-Sakhelashvili/React__Crypto">Display Cryptocurrency Exchange Rates</a>
 <p> 24) <a href="https://github.com/Mishka-Sakhelashvili/React__MVC"> Item MVC </a>
-</div>
 
 
+<hr />
 <img height="40px" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <p> 1) <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo">  Online Store  Demo Application</a> </p>
 <p> 2) <a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">Restaurants Search Application</a></p>
@@ -37,13 +37,13 @@
 <p> 7) <a href="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI">Sorting Food Categories User Interface</a></p>
 <p> 8) <a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">Shipping Company Application Clone  Demo</a></p>
 
-
+<hr />
 <img height="40px" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 <p> 1) <a href="https://github.com/Mishka-Sakhelashvili/VUE3__DemoApp">VUE3 Demo </a> 
 <p> 2) <a href="https://github.com/Mishka-Sakhelashvili/Vue__Manager"> Item CRUD (+ Firebase) </a> 
 <p> 3) <a href="https://github.com/Mishka-Sakhelashvili/VUE__MVC">Item MVC</a> 
 
-
+<hr />
 <img height="40px" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <p> 1) <a href="https://github.com/Mishka-Sakhelashvili/EXPRESS__AuthRestApi">Signin & Signup (REST API)</a> 
 <p> 2) <a href="https://github.com/Mishka-Sakhelashvili/EXPRESS__RESTAPI__PlacesApp">Great Places App Clone (REST API) </a> 
@@ -58,7 +58,7 @@
 <p> 11) <a href="https://github.com/Mishka-Sakhelashvili/Express__Ejs">EJS MVC</a> 
 <p> 12) <a href="https://github.com/Mishka-Sakhelashvili/React__Express__PDFGenerator">HTML Convert PDF File (REST API) </a> 
 
-
+<hr />
 <img height="40px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <p> 1) <a href="https://github.com/Mishka-Sakhelashvili/JS__Quiz">Fun Quiz</a> 
 <p> 2) <a href="https://github.com/Mishka-Sakhelashvili/JQuery__FullPageScroll">Full Page Scroll</a>
