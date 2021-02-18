@@ -99,7 +99,6 @@
 <br />
 <br />
 <br />
- <hr />
 <p align="center">
 <img height=80px src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
@@ -139,12 +138,13 @@
 </tr>
 </tbody>
 </table>
+<br />
+<br />
+<br />
+<br />
 
-<hr />
-<br />
-<br />
-<br />
-<br />
+
+
 <p align="center">
 <img height=80px src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
 </p>
@@ -164,7 +164,8 @@
 </tbody>
 </table>
 
-<hr />
+
+
 <br />
 <br />
 <br />
@@ -222,7 +223,7 @@
 </tbody>
 </table>
 
-<hr />
+
 <br />
 <br />
 <br />
