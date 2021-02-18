@@ -131,7 +131,7 @@
 <a href="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI">Sorting Categories User Interface</a> ( <a href="https://github.com/Mishka-Sakhelashvili/RN__Delivery__UI/blob/master/README.md"> Link </a> )
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">Shipping Company Application Clone  Demo</a> 
+<a href="https://github.com/Mishka-Sakhelashvili/RN__Express__MongoDB__CargonApp">Shipping Company Clone  Demo</a> 
 </td>
 <td align="center" width="20%">
 </td>
