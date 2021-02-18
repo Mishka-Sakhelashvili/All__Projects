@@ -106,13 +106,13 @@
 <tbody>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo"> Online Store  Demo Application</a> ( <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo/blob/master/README.md"> Link </a> )
+<a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo"> Online Store  Demo </a> ( <a href="https://github.com/Mishka-Sakhelashvili/RN__SalesAppDemo/blob/master/README.md"> Link </a> )
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">Restaurants Search Application</a> ( <a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch/blob/master/README.md"> Link </a> )
+<a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch">Restaurants Search </a> ( <a href="https://github.com/Mishka-Sakhelashvili/RN__RestaurantSearch/blob/master/README.md"> Link </a> )
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp">Food Delivery Application User Interface</a> ( <a href="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp/blob/master/README.md"> Link </a> )
+<a href="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp">Food Delivery User Interface</a> ( <a href="https://github.com/Mishka-Sakhelashvili/RN__RecipeApp/blob/master/README.md"> Link </a> )
 </td>
 </tr>
 <tr>
