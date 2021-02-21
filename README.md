@@ -22,7 +22,7 @@
 <a href="https://github.com/Mishka-Sakhelashvili/React__Blog">Real Time Blog (+ Socket.io)</a>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/React__AmazingCubeNavigation">Hard CSS Cube Moving Animation</a>
+<a href="https://github.com/Mishka-Sakhelashvili/React__AmazingCubeNavigation">Hard CSS Cube Moving Animation</a> ( <a href="https://github.com/Mishka-Sakhelashvili/React__AmazingCubeNavigation/blob/master/README.md"> Link </a> )
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@
 </tr>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/React__AnimationSlider">React Full Page Scroll</a>
+<a href="https://github.com/Mishka-Sakhelashvili/React__AnimationSlider">React Full Page Scroll</a> ( <a href="https://github.com/Mishka-Sakhelashvili/React__AnimationSlider/blob/master/README.md"> Link </a> )
   </td>
 <td align="center" width="20%">
 <a href="https://github.com/Mishka-Sakhelashvili/React__Crypto">Display Cryptocurrency Exchange Rates</a>
