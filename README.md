@@ -44,7 +44,7 @@
 <a href="https://github.com/Mishka-Sakhelashvili/React__Express__Socket.io__ChatApp">Real Time Chat App (+ Express JS & Cocket.io)</a>
 </td>
 <td align="center" width="20%">
-<a href="https://github.com/Mishka-Sakhelashvili/React__Gif">Gif Making App</a>
+<a href="https://github.com/Mishka-Sakhelashvili/React__GifApp">Gif Making App</a>
 </td>
 </tr>
 <tr>
